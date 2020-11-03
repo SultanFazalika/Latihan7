@@ -1,6 +1,7 @@
 #LATIHAN 7
 
 ##Latihan 1.py
+
 **Soal**
 - Buat program dengan perulangan bertingkat(_nested_) for yang menghasilhan output sebagai berikut:
 ![soal1](soal1.jpg)
@@ -28,6 +29,7 @@
 
 **Jawaban**
 - berikut merupakan koding latihan 2.py
+
 ![coding2](coding_latihan2.jpg)
 
 **Pejelasan singkat dari beberapa fungsi yang dipakai** :
@@ -40,6 +42,6 @@
 
 **Output Latihan 2.py**
 
-![Output2](output_latihan2.JPG)
+![Output2](output_latihan2.jpg)
 
 >Catatan: Mengapa output latihan 2.py tidak sama seperti di contoh soal? Karena fungsi `random` sehingga angka yang muncul merupakan angka random/acak
